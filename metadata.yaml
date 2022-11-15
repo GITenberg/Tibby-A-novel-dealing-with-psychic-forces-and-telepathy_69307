@@ -1,0 +1,26 @@
+_repo: Tibby-A-novel-dealing-with-psychic-forces-and-telepathy_69307
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilchrist, Rosetta Luce
+    gutenberg_agent_id: '55210'
+    url: http://www.gutenberg.org/2009/agents/55210
+description: ''
+gutenberg_issued: '2022-11-07'
+identifiers:
+  gutenberg: '69307'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/100588180
+pgterms:marc905: 20181125212813gilchrist
+pgterms:marc906: '1904'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: 'United States: The Neale Publishing Company,1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Tibby: A novel dealing with psychic forces and telepathy'
+url: http://www.gutenberg.org/ebooks/69307
